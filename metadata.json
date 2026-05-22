@@ -1,0 +1,6 @@
+{
+  "name": "GMN Checklist",
+  "description": "Formulário e checklist interativo para cadastro e otimização do Google Meu Negócio (GMN) com exportação para WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
